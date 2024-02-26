@@ -114,7 +114,7 @@ class PlayboardFragment : Fragment()
         view.findViewById<Button>(R.id.resetButton)?.setOnClickListener {
             buttonsIds.forEach { buttonIds ->
                 view.findViewById<ImageButton>(buttonIds)
-                    ?.setBackgroundResource(R.drawable.tile_shape)
+                    ?.setBackgroundResource(R.drawable.white_tile)
             }
             userTiles.clear()
             computerTiles.clear()

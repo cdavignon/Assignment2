@@ -50,7 +50,7 @@
             android:layout_rowWeight="1"
             android:layout_column="0"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="0" />
         <ImageButton
             android:id="@+id/imageButton1"
@@ -60,7 +60,7 @@
             android:layout_rowWeight="1"
             android:layout_column="1"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="1" />
 
         <ImageButton
@@ -71,7 +71,7 @@
             android:layout_rowWeight="1"
             android:layout_column="2"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="2" />
 
         <ImageButton
@@ -83,7 +83,7 @@
             android:layout_column="3"
             android:layout_columnWeight="1"
             android:adjustViewBounds="false"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="3"
             android:cropToPadding="false" />
 
@@ -95,7 +95,7 @@
             android:layout_rowWeight="1"
             android:layout_column="4"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="4" />
 
         <ImageButton
@@ -106,7 +106,7 @@
             android:layout_rowWeight="1"
             android:layout_column="5"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="5" />
 
         <ImageButton
@@ -117,7 +117,7 @@
             android:layout_rowWeight="1"
             android:layout_column="0"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="6" />
 
         <ImageButton
@@ -128,7 +128,7 @@
             android:layout_rowWeight="1"
             android:layout_column="1"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="7" />
 
         <ImageButton
@@ -139,7 +139,7 @@
             android:layout_rowWeight="1"
             android:layout_column="2"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="8" />
 
         <ImageButton
@@ -150,7 +150,7 @@
             android:layout_rowWeight="1"
             android:layout_column="3"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="9" />
 
         <ImageButton
@@ -161,7 +161,7 @@
             android:layout_rowWeight="1"
             android:layout_column="4"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="10" />
 
         <ImageButton
@@ -172,7 +172,7 @@
             android:layout_rowWeight="1"
             android:layout_column="5"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="11" />
 
         <ImageButton
@@ -183,7 +183,7 @@
             android:layout_rowWeight="1"
             android:layout_column="0"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="12" />
 
         <ImageButton
@@ -194,7 +194,7 @@
             android:layout_rowWeight="1"
             android:layout_column="1"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="13" />
 
         <ImageButton
@@ -205,7 +205,7 @@
             android:layout_rowWeight="1"
             android:layout_column="2"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="14" />
 
         <ImageButton
@@ -216,7 +216,7 @@
             android:layout_rowWeight="1"
             android:layout_column="3"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="15" />
 
         <ImageButton
@@ -227,7 +227,7 @@
             android:layout_rowWeight="1"
             android:layout_column="4"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="16" />
 
         <ImageButton
@@ -238,7 +238,7 @@
             android:layout_rowWeight="1"
             android:layout_column="5"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="17" />
 
         <ImageButton
@@ -249,7 +249,7 @@
             android:layout_rowWeight="1"
             android:layout_column="0"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="18" />
 
         <ImageButton
@@ -260,7 +260,7 @@
             android:layout_rowWeight="1"
             android:layout_column="1"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="19" />
 
         <ImageButton
@@ -271,7 +271,7 @@
             android:layout_rowWeight="1"
             android:layout_column="2"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="20" />
 
         <ImageButton
@@ -282,7 +282,7 @@
             android:layout_rowWeight="1"
             android:layout_column="3"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="21" />
 
         <ImageButton
@@ -293,7 +293,7 @@
             android:layout_rowWeight="1"
             android:layout_column="4"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="22" />
 
         <ImageButton
@@ -304,7 +304,7 @@
             android:layout_rowWeight="1"
             android:layout_column="5"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="23" />
 
         <ImageButton
@@ -315,7 +315,7 @@
             android:layout_rowWeight="1"
             android:layout_column="0"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="24" />
 
         <ImageButton
@@ -326,7 +326,7 @@
             android:layout_rowWeight="1"
             android:layout_column="1"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="25" />
 
         <ImageButton
@@ -337,7 +337,7 @@
             android:layout_rowWeight="1"
             android:layout_column="2"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="26" />
 
         <ImageButton
@@ -348,7 +348,7 @@
             android:layout_rowWeight="1"
             android:layout_column="3"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="27" />
 
         <ImageButton
@@ -359,7 +359,7 @@
             android:layout_rowWeight="1"
             android:layout_column="4"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="28" />
 
         <ImageButton
@@ -370,7 +370,7 @@
             android:layout_rowWeight="1"
             android:layout_column="5"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="29" />
 
         <ImageButton
@@ -381,7 +381,7 @@
             android:layout_rowWeight="1"
             android:layout_column="0"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="30" />
 
         <ImageButton
@@ -392,7 +392,7 @@
             android:layout_rowWeight="1"
             android:layout_column="1"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="31" />
 
         <ImageButton
@@ -403,7 +403,7 @@
             android:layout_rowWeight="1"
             android:layout_column="2"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="32" />
 
         <ImageButton
@@ -414,7 +414,7 @@
             android:layout_rowWeight="1"
             android:layout_column="3"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="33" />
 
         <ImageButton
@@ -425,7 +425,7 @@
             android:layout_rowWeight="1"
             android:layout_column="5"
             android:layout_columnWeight="1"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="34" />
 
         <ImageButton
@@ -437,7 +437,7 @@
             android:layout_column="4"
             android:layout_columnWeight="1"
             android:accessibilityLiveRegion="polite"
-            android:background="@drawable/tile_shape"
+            android:background="@drawable/white_tile"
             android:contentDescription="35" />
 
     </GridLayout>
