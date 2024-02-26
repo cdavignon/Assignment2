@@ -20,11 +20,11 @@
         android:id="@+id/turns"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="-20dp"
         android:gravity="center_horizontal"
         android:paddingTop="20dp"
         android:text="Player's Turn"
-        android:textSize="24sp" />
+        android:textSize="50sp" />
 
 
     <GridLayout
@@ -444,9 +444,10 @@
         android:id="@+id/resetButton"
         android:layout_width="189dp"
         android:layout_height="59dp"
-        android:layout_marginBottom="20dp"
-        android:text="Reset Board"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="-520dp"
+        android:text="RESET"
         android:textSize="20sp"
-        app:backgroundTint="#3A9CD8" />
+        app:backgroundTint="#BF42CF" />
 
 </LinearLayout>
